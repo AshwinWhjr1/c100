@@ -19,6 +19,12 @@ body
     width: 150px;
     border-radius: 100px;
 }
+pics
+{
+    width:360px;
+    height: 250px;
+    border-radius: 20;
+}
 #textbox
 {
     width: 300px;
