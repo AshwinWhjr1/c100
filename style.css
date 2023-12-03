@@ -19,10 +19,22 @@ body
     width: 150px;
     border-radius: 100px;
 }
-pics
+pics1
 {
-    width:360px;
-    height: 250px;
+    width:150px;
+    height: 150px;
+    border-radius: 20;
+}
+pics2
+{
+    width:150px;
+    height: 150px;
+    border-radius: 20;
+}
+pics3
+{
+    width:150px;
+    height: 150px;
     border-radius: 20;
 }
 #textbox
